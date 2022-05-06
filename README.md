@@ -1,2 +1,4 @@
 # elucidatalab.datasets
-Datasets used in the starter kits
+
+This repository contains the datasets that are used in the elucidatalab Starter Kits. 
+
